@@ -15,6 +15,7 @@
 This is fun!
 Getting
 My dog is lonely 
+getting closer 
 
 GitHub Intro Notes
 Day One Coding
