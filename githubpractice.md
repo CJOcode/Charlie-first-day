@@ -19,6 +19,10 @@
 - i'm having fun too!
 - I'm getting the hang of this
 - we all need a drink!
+
+### The final stretch
+
+
 GitHub Intro Notes
 Day One Coding
 Git Resources
