@@ -13,7 +13,8 @@
 
 #### HOPE THIS WORKS
 This is fun!
-Getting there
+Getting
+My dog is lonely 
 
 GitHub Intro Notes
 Day One Coding
