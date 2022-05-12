@@ -12,7 +12,7 @@
 - push and pull
 
 #### HOPE THIS WORKS
-
+This is fun!
 
 GitHub Intro Notes
 Day One Coding
