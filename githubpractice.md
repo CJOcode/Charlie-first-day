@@ -21,7 +21,7 @@
 - we all need a drink!
 
 ### The final stretch
-
+- This is it!
 
 GitHub Intro Notes
 Day One Coding
