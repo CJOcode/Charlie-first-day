@@ -13,6 +13,7 @@
 
 #### HOPE THIS WORKS
 This is fun!
+Getting there
 
 GitHub Intro Notes
 Day One Coding
