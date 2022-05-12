@@ -60,4 +60,4 @@ Informational Commands for Paired Programming
 * * *
 Create New Branch
 $ git checkout -b <branch-name>
-Show less
+### changes
