@@ -2,7 +2,6 @@
 
 ## First Day of Coding in the Charlie Cohort
 
-
 ### Vocabulary
 -Git
 -GitHub
@@ -11,6 +10,9 @@
 -repo
 -clone
 -push and pull
+
+#### HOPE THIS WORKS
+
 
 GitHub Intro Notes
 Day One Coding
