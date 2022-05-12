@@ -12,10 +12,11 @@
 - push and pull
 
 #### HOPE THIS WORKS
-This is fun!
-Getting
-My dog is lonely 
-getting closer 
+- This is fun!
+- Getting there
+- My dog is lonely 
+- getting closer
+- i'm having fun too!
 
 GitHub Intro Notes
 Day One Coding
