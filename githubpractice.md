@@ -18,7 +18,7 @@
 - getting closer
 - i'm having fun too!
 - I'm getting the hang of this
-
+- we all need a drink!
 GitHub Intro Notes
 Day One Coding
 Git Resources
