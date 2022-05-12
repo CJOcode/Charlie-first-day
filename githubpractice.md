@@ -4,13 +4,13 @@
 
 
 ### Vocabulary
--Git
--GitHub
--branch
--remote and local
--repo
--clone
--push and pull
+- Git
+- GitHub
+- branch
+- remote and local
+- repo
+- clone
+- push and pull
 
 GitHub Intro Notes
 Day One Coding
