@@ -14,9 +14,10 @@
 #### HOPE THIS WORKS
 - This is fun!
 - Getting there
-- My dog is lonely 
+- My dog is lonely
 - getting closer
 - i'm having fun too!
+- I'm getting the hang of this
 
 GitHub Intro Notes
 Day One Coding
