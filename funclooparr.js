@@ -80,8 +80,11 @@ console.log(addArr(addThese2))
 const largestNumIndex = (array) => {
     let largest = 0
     for (let i=0; i < array.length; i++){
+        // console.log("i:", i)
+        // console.log("largest", largest)
         if (array[i] > array[largest]){
             largest = i
+            // console.log("inside if", i)
         } 
     }
     return largest
@@ -95,19 +98,51 @@ console.log(largestNumIndex(indexHighestNumber))
 // STRETCH Challenges
 
 // Create a function that takes in two arrays and returns one array with no duplicate values.
-// var arr1 = [3, 7, 10, 5, 4, 3, 3]
-// var arr2 = [7, 8, 2, 3, 1, 5, 4]
+var arr1 = [3, 7, 10, 5, 4, 3, 3]
+var arr2 = [7, 8, 2, 3, 1, 5, 4]
+
+const combineArray = (arr1, arr2) => {
+    let finalArr = []
+    let comboArr = arr1.concat(arr2)
+    // console.log(comboArr)
+    for(let i=0; i < comboArr.length; i++){
+        if (!finalArr.includes(comboArr[i])){
+            finalArr.push(comboArr[i])
+        }
+    } 
+    return finalArr
+}
+
+console.log(combineArray(arr1, arr2))
 // // --> [3, 7, 10, 5, 4, 8, 2, 1]
+
+
 // Create a function that takes in two numbers as arguments and returns an array the length of the first number filled with the second number.
-// var arrayLength = 6
-// var arrayValue = 0
+
+ var arrayLength = 6
+ var arrayValue = 0
 // // --> [0, 0, 0, 0, 0, 0]
 
 // var arrayLength = 4
 // var arrayValue = 11
 // // --> [11, 11, 11, 11]
+
+
+const twoNumOneArr = (var1, var2) => {
+    let finalArr = []
+    for (let i=0; i < var1; i++){
+    finalArr.push(var2)
+    // console.log("i", i)
+}
+    return finalArr
+}
+
+console.log(twoNumOneArr(arrayLength, arrayValue))
+
+
+
 // Create a function that takes a number as an argument. Add up all the numbers from 1 to the number you passed to the function.
-// var addUp1 = 4
+ var addUp1 = 4
 // // 1 + 2 + 3 + 4 = 10
 // // --> 10
 
@@ -117,6 +152,20 @@ console.log(largestNumIndex(indexHighestNumber))
 
 // var addUp3 = 600
 // // --> 180300
+
+const sumOfValue = (value) => {
+    let finalNum = 0
+    for (let i=1; i <= value; i++){
+        finalNum = finalNum + i
+        // console.log("i", i)
+        // console.log("value", value)
+    }
+    return finalNum 
+}
+
+console.log(sumOfValue(addUp1))
+
+
 // EPIC Challenges
 
 // Create a function called highLow that takes in a number and returns whether the number is higher or lower than the "answer".
